@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="em2.c">
+    <ClCompile Include="..\..\em2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="em1.c">
+    <ClCompile Include="..\..\em1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
