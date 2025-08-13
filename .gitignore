@@ -1,0 +1,16 @@
+*.db-shm
+*.db-wal
+*.db
+*.vsidx
+*.opendb
+*.json
+*.ipch
+/win32/Em/.vs
+*.user
+*.tlog
+*.log
+*.idb
+/win32/Em/Em/x64
+*.exe
+*.pdb
+/win32/Em/x64
