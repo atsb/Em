@@ -1,9 +1,3 @@
-# Migration to CodeBerg
-
-Em has migrated to EU-based CodeBerg! https://codeberg.org/atsb/Em
-
-No further developments will be done here and the repo will be closed on GitHub in 6 months.
-
 # EM
 This is the Editor for Mortals 'em' by George Coulouris.  An ancestor of 'ex/vi'.
 
